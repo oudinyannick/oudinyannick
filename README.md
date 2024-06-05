@@ -7,7 +7,7 @@ Concepteur développeur d'applications(je recherche une alternance en tant que d
 Je suis en reconversion professionnelle, depuis octobre 2023 je suis en formation à l'école @Ada Tech School de Nantes. C'est une formation en présentiel qui nous prépare au titre RNCP concepteur développeur d'applications de niveau BAC+3. Un des points forts est la réalisation de plusieurs projets collectifs. Nous utilisons les méthodes agiles.
 
 *   🌍 Je suis basé à La Gaubretiere 
-*   ✉️ Vous pouvez me contacter à [yannickoudindu@gmail.com](mailto:yannickoudindu@gmail.com)[](mailto:yannickoudindu@gmail.com)
+*   ✉️ Vous pouvez me contacter à [yannickoudindu49@gmail.com](mailto:yannickoudindu@gmail.com)[](mailto:yannickoudindu@gmail.com)
 
 *   ### Compétences 
 <p align="left">
