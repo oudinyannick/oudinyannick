@@ -1,7 +1,7 @@
 Bonjour, je m'appelle Yannick Oudin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================================
 
-Concepteur développeur d'applications(je recherche une alternance en tant que développeur full stack à partir de septembre 2024 jusqu'à septembre 2025.
+Concepteur développeur d'applications(je recherche une alternance d'un an en tant que développeur full stack dès que possible).
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Je suis en reconversion professionnelle, depuis octobre 2023 je suis en formation à l'école @Ada Tech School de Nantes. C'est une formation en présentiel qui nous prépare au titre RNCP concepteur développeur d'applications de niveau BAC+3. Un des points forts est la réalisation de plusieurs projets collectifs. Nous utilisons les méthodes agiles.
